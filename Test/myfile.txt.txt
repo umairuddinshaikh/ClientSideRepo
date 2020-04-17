@@ -1,2 +1,3 @@
 Hi. Adding some more changes
 Adding a new line too
+This is a bug fix.
